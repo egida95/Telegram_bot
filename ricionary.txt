@@ -1,0 +1,41 @@
+id:1
+NamesRick Sanchez
+StatusAliveid:2
+NamesMorty Smith
+StatusAliveid:3
+NamesSummer Smith
+StatusAliveid:4
+NamesBeth Smith
+StatusAliveid:5
+NamesJerry Smith
+StatusAliveid:6
+NamesAbadango Cluster Princess
+StatusAliveid:7
+NamesAbradolf Lincler
+Statusunknownid:8
+NamesAdjudicator Rick
+StatusDeadid:9
+NamesAgency Director
+StatusDeadid:10
+NamesAlan Rails
+StatusDeadid:11
+NamesAlbert Einstein
+StatusDeadid:12
+NamesAlexander
+StatusDeadid:13
+NamesAlien Googah
+Statusunknownid:14
+NamesAlien Morty
+Statusunknownid:15
+NamesAlien Rick
+Statusunknownid:16
+NamesAmish Cyborg
+StatusDeadid:17
+NamesAnnie
+StatusAliveid:18
+NamesAntenna Morty
+StatusAliveid:19
+NamesAntenna Rick
+Statusunknownid:20
+NamesAnts in my Eyes Johnson
+Statusunknown
